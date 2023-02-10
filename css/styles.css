@@ -1,0 +1,51 @@
+.container-fluid {
+    padding: 0 15%;
+}
+
+.white-section {
+    background-color: #fff;
+}
+
+.colored-section {
+    background-color: #dc3545;
+    color: #fff;
+}
+
+.content-padding {
+    padding-top: 7%;
+    padding-bottom: 7%;
+}
+
+/* home */
+.title {
+    font-size: 3.5rem;
+}
+
+/* about us */
+.about-us-text {
+    font-size: 1.5rem;
+}
+
+/* menu */
+
+/* testimony */
+.testimonial-image {
+    border-radius: 100%;
+    width: 10%;
+    margin: 2%;
+}
+
+.testimonial-text {
+    font-size: 2.5rem;
+}
+
+/* footer */
+#footer a {
+    text-decoration: none;
+    color: #000;
+}
+
+#footer .content-padding {
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
